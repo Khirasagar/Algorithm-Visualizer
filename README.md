@@ -1,6 +1,7 @@
 # algorithm-visualizer 
 
 
+
 ### Completed Algorithm
 * Sorting
   * Bubble Sort
